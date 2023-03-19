@@ -1,7 +1,7 @@
 <!--
 **LEFTeyex/LEFTeyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, LEFTeyex here
+## 👋 Hi, LEFTeyex here
 
 - 😄 I’m currently studying for a PhD.
 - 🌱 I focus on CV and AI.
